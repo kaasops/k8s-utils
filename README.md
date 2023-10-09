@@ -5,6 +5,11 @@
   </a>
 </p>
 
+# !!! Depricated !!!
+We found [this](https://github.com/kubernetes-sigs/controller-runtime/blob/main/pkg/controller/controllerutil/controllerutil.go) package.
+
+At some point, this repository will be deleted.
+
 # K8S utils
 
 ## Description
