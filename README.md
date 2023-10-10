@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# !!! Depricated !!!
+# !!! Deprecated !!!
 We found [this](https://github.com/kubernetes-sigs/controller-runtime/blob/main/pkg/controller/controllerutil/controllerutil.go) package.
 
 At some point, this repository will be deleted.
